@@ -23,5 +23,6 @@ Retail ERP is an ideal small business ERP software solution for growing small bu
 <li>Monitoring</li>
 <li>Collection Reports</li>
 <li>Reports & Graphs</li>
+</ul>
 <b>More details and download link:</b><br>
 <b>https://www.aspscriptsonline.com/product/erp-for-retail-business/</b>
